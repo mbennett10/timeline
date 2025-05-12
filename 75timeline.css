@@ -9,7 +9,7 @@ font-family: Montserrat, Geneva, sans-serif;
     font-family: Montserrat, sans-serif;
 }
 
-/* arrow icons  */
+/* arrow icons  - doesn't work and I'm not sure why*/
 .tl-slidenav-next .tl-slidenav-icon,  .tl-slidenav-previous .tl-slidenav-icon{
 color: #f37022 !important;
     fill: #f37022 !important;
