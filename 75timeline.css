@@ -10,8 +10,9 @@ font-family: Montserrat, Geneva, sans-serif;
 }
 
 /* arrow icons  */
-.tl-slidenav-next.tl-slidenav-icon,  .tl-slidenav-previous.tl-slidenav-icon{
+.tl-slidenav-next .tl-slidenav-icon,  .tl-slidenav-previous .tl-slidenav-icon{
 color: #f37022;
+    fill: #f37022;
 }
 
 /* timeline navigation background */
