@@ -1,0 +1,42 @@
+/* to update timeline style, this file will need to be saved as a .css file and uploaded to a server. Then go to the webpage where the timeline is embedded and in the iframe, Add a parameter called theme and set its value to the URL for your custom CSS*/
+
+/* match fonts */
+.tl-headline {
+font-family: Montserrat, Geneva, sans-serif;
+}
+
+.tl-timeline p, .tl-timeline .tl-menubar, .tl-timeline .tl-timenav-slider .tl-timeaxis  {
+    font-family: Montserrat, sans-serif;
+}
+
+/* arrow icons */
+.tl-sidenav-icon {
+color: #f37022;
+}
+
+/* timeline navigation background */
+.tl-timenav {
+background-color: #6ac0d1;
+border-top: 5px solid #f37022;
+}
+
+/* timeline navigation elements */
+.tl-menubar--button {
+background-color: #f37022;
+color: #4d4d4f;
+
+}
+
+/* timeline navigation boxes */
+.tl-timemarker .tl-timemarker-content-container {
+    background-color: #f37022;
+border: none;
+    box-shadow: 1px 1px 1px #4d4d4f;
+}
+
+/* hide branding */
+.tl-attribution {
+display: none;
+}
+
+/*For reference - https://timeline.knightlab.com/docs/overriding-styles.html */
