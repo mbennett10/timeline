@@ -16,24 +16,17 @@ color: #f37022;
 }
 
 
-.tl-menubar {
-    display: none;
-}
-
 /* timeline navigation background */
 .tl-timenav {
 background-color: #6ac0d1;
 border-top: 5px solid #f37022;
-    display: none;
-}
+  }
 
 /* timeline navigation elements */
 .tl-menubar--button {
 background-color: #f37022;
 color: #4d4d4f;
-    display:none;
-
-}
+  }
 
 /* timeline navigation boxes */
 .tl-timemarker .tl-timemarker-content-container {
