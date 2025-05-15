@@ -40,4 +40,8 @@ border: none;
 display: none;
 }
 
+.tl-timeaxis {
+display: none;
+}
+
 /*For reference - https://timeline.knightlab.com/docs/overriding-styles.html */
